@@ -1,0 +1,8 @@
+- Which Python functions did you use to get input from the user?
+ input() pauses the terminal outputs and gives the user a chance to input value into the terminal.
+
+- How did f-string formatting help in constructing the story?
+ f-string formatting made it really easy to just plug the user provided variables into the mad_lid structure.
+
+- What would you change or add to your script if you wanted to make the game more interactive?
+ I feel like the mad_lib structure is relatively limited in it's interactivity, so the only thing I would change is asking for more inputs from the user and repeating a few variables throughout a longer story.
